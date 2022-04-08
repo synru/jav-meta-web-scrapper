@@ -1,0 +1,41 @@
+Heydouga:
+  landing_page: https://www.heydouga.com/listpages/provider_%s_%i.html
+  providers:
+    #- 3002#一本道
+    #- 4030 #av9898
+    #- 3000 #ＨＥＹ動画
+    #- 3001 #カリビアンコム
+    #- 4111 #HEYZO
+    - 4037 #ガチん娘
+    - 3004 #パコパコママ
+    - 4004 #Night24.com
+    - 4156 #一番槍
+  sqlite_db_path: 'db/Movies.db'
+
+Caribbeancom:
+  landing_page: https://www.caribbeancom.com/listpages/all%i.htm
+  series_landing_page: https://www.caribbeancom.com/category.htm#cat-series
+  sqlite_db_path: 'db/Movies.db'
+
+一本道:
+  landing_page: https://www.1pondo.tv/list/?page=%i&o=newest
+  series_landing_page: https://www.1pondo.tv/series/
+  sqlite_db_path: 'db/Movies.db'
+
+Heyzo:
+  landing_page: https://www.heyzo.com/listpages/all_%i.html
+  sqlite_db_path: 'db/Movies.db'  
+
+天然むすめ:
+  landing_page: https://www.10musume.com/list/?page=%i&o=newest
+  sqlite_db_path: 'db/Movies.db'
+  starting_page: 49
+  ending_page: 49
+
+キャットウォーク:
+  landing_page: https://www.aventertainments.com/ppv/ppv_studioproducts.aspx?studioid=174&languageID=2&vodtypeid=1&Rows=2&CountPage=%i
+  sqlite_db_path: 'db/Movies.db'
+
+スタジオテリヤキ:
+  landing_page: https://www.aventertainments.com/ppv/ppv_studioproducts.aspx?studioid=190&languageID=2&vodtypeid=1&Rows=2&CountPage=%i
+  sqlite_db_path: 'db/Movies.db'
